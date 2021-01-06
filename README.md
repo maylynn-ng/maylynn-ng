@@ -8,4 +8,6 @@
 
 <br>
 
+🤓 currently learning: nest.js && prisma 
+
 👉 [LinkedIn](https://www.linkedin.com/in/maylynn-ng/)👈 
