@@ -6,10 +6,10 @@
 I'm a full stack developer with a keen interest on the inner workings of backend and creating silky smooth funky frontend functionality. Most recently I've been enjoying creating projects with NestJS and playing with the CLI 
 
 ### 🤟 ls interests 
-Travelling
-Dad jokes
-Dim Sum 
-Spreadsheets & lists 
+Travelling <br>
+Dad jokes <br>
+Dim Sum <br>
+Spreadsheets & lists <br>
 
 ### 👩‍💻 which work
 Instructor at [Codeworks](https://codeworks.me/) where my time is spent teaching and mentoring students through projects, solving some wonderfully filthy fiddly bugs && working on our internal software. 
