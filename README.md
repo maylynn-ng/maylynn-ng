@@ -18,7 +18,7 @@ Instructor at [Codeworks](https://codeworks.me/) where my time is spent teaching
 A side project is a refactor of our [mobile app](https://github.com/maylynn-ng/beerb) before we carry on to add new features. We have a [demo video](https://www.youtube.com/watch?v=wZ4gDSbOGk4&feature=youtu.be) if ya wanna check it out :v: </div>
 
 ### 🌱 man learning
-dipping into lower level languages and diving into computer science 💦
+Dipping into lower level languages and diving into computer science 💦
 
 <br>
 
