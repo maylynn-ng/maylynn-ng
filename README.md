@@ -3,7 +3,7 @@
 </p>
 
 ### 🙋‍♀️ echo $(whoami)
-I'm a full stack developer with a keen interest on the inner workings of backend and creating silky smooth funky frontend functionality. Most recently I've been enjoying creating projects with NestJS and playing with the CLI 
+I'm a full stack developer with a keen interest on the inner workings of backend and creating silky smooth funky frontend functionality. Most recently I've been enjoying creating projects with graphql and playing with the CLI 
 
 ### 🤟 ls interests 
 Travelling <br>
