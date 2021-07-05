@@ -10,7 +10,7 @@ Travelling <br>
 Dad jokes <br>
 Dim Sum <br>
 Spreadsheets & lists <br>
-Currently obsessed with notion 
+Currently obsessed with [Notion](https://www.notion.so/) 
 
 ### 👩‍💻 which work
 Instructor at [Codeworks](https://codeworks.me/) where my time is spent teaching and mentoring students through projects, solving some wonderfully filthy fiddly bugs && working on our internal software. 
