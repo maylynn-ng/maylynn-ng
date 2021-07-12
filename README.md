@@ -13,7 +13,7 @@ Spreadsheets & lists <br>
 Currently obsessed with [Notion](https://www.notion.so/) 
 
 ### 👩‍💻 which work
-Instructor at [Codeworks](https://codeworks.me/) where my time is spent teaching and mentoring students through projects, solving some wonderfully filthy fiddly bugs && working on our internal software. 
+Frontend Engineer at [Tray.io](https://tray.io/) working in Enterprise 
 
 ### ⚒️ ps | grep projects
 A side project is an educational platform & channel - hopefully out soon! 🤓
