@@ -13,7 +13,7 @@ Spreadsheets & lists <br>
 Currently obsessed with [Notion](https://www.notion.so/) 
 
 ### 👩‍💻 which work
-Frontend Engineer at [Tray.io](https://tray.io/) working in Enterprise 
+Frontend Engineer at [Tray.io](https://tray.io/)
 
 ### ⚒️ ps | grep projects
 A side project is an educational platform & channel - hopefully out soon! 🤓
