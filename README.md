@@ -1,5 +1,5 @@
 <p>
-  <img src="https://s8.gifyu.com/images/HI-IM-MAYLYNN-2.gif"/>
+  <img src="https://ibb.co/LZPwkB5"/>
 </p>
 
 ### 🙋‍♀️ echo $(whoami)
