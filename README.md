@@ -1,6 +1,5 @@
-<p>
-  <img src="https://i.ibb.co/K2qSQgh/HI-I-M-MAYLYNN-1.gif"/>
-</p>
+
+<img src="https://i.ibb.co/v3PRrWq/HI-I-M-MAYLYNN-1.gif" alt="HI-I-M-MAYLYNN-1" width="100%"/>
 
 ### 🙋‍♀️ echo $(whoami)
 I'm a full stack developer with a keen interest on the inner workings of backend and creating silky smooth funky frontend functionality. Most recently I've been enjoying creating projects with graphql and playing with the CLI 
