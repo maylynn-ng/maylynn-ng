@@ -22,4 +22,4 @@ Getting on that blockchain hype 🚋 choo choo
 
 <br>
 
-👉 [LinkedIn](https://www.linkedin.com/in/maylynn-ng/) 👈 
+👉 [LinkedIn](https://www.linkedin.com/in/maylynn-ng/)  👈 
