@@ -12,7 +12,7 @@ Spreadsheets & lists <br>
 Currently obsessed with [Notion](https://www.notion.so/) 
 
 ### 👩‍💻 which work
-Frontend Engineer at [Shift Lab](https://shiftlab.ai/)
+Software Engineer at [Shift Lab](https://shiftlab.ai/)
 
 ### ⚒️ ps | grep projects
 A side project is an educational platform & channel - hopefully out soon! 🤓
