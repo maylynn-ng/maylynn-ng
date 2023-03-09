@@ -15,7 +15,7 @@ Progression <br>
 Currently obsessed with [Notion](https://www.notion.so/) 
 
 ### 👩‍💻 which work
-Software Engineer at [Shift Lab](https://shiftlab.ai/) turning intricate ML functionality into simple but elegant products.
+Software Engineer at [Bardeen]([https://shiftlab.ai/](https://www.bardeen.ai/)) helping people streamline their day to day.
 
 ### 🌱 man learning
 How to raise a puppy 😳
