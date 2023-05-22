@@ -12,13 +12,12 @@ Dad jokes <br>
 Dim Sum <br>
 Emojis 👀 <br>
 Progression <br>
-Currently obsessed with [Notion](https://www.notion.so/) 
 
 ### 👩‍💻 which work
-Software Engineer at [Cord](https://cord.com/) helping people streamline their day to day.
+Software Engineer at [Cord](https://cord.com/) creating tools for collaboration.
 
 ### 🌱 man learning
-How to raise a puppy 😳
+How to convert a van to a home
 
 <br>
 
