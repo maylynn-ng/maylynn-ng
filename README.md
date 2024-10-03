@@ -14,10 +14,10 @@ Emojis 👀 <br>
 Progression <br>
 
 ### 👩‍💻 which work
-Software Engineer at [Cord](https://cord.com/) creating tools for collaboration.
+Software Engineer at [Phaidra](https://www.phaidra.ai/) revamping the industrial sector with AI 🧠
 
 ### 🌱 man learning
-How to convert a van to a home
+How to raise a child 🐣
 
 <br>
 
